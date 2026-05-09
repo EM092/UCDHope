@@ -14,59 +14,33 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+  background-color: #b3d4ff;
 }
 
-footer { background-color: lightgray;
+footer { background-color: #b3d4ff;
   padding: 20px;
   text-align:center;
 }
 
+h1 { font-family: "Brush Script MT", cursive;
+}
+
+body {
+  font-family: Garamond, serif;
+}
+
 </style>
 
- <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
-<body>
+<body style="background-color:#cce2ff;">
 
 <h1>The UCD Hope Collection</h1>
-<p>layout tbd, all just rough draft</p>
 
-<table table, th, td {
-  border: 1px solid black;
-}>
-  <tr>
-    <th>Who</th>
-    <th>What</th>
-    <th>Who</th>
-    <th>What</th>
-  </tr>
-  <tr>
-    <td>Kata</td>
-    <td>Hope's Biography</td>
-    <td>Ethan</td>
-    <td>Grand Tour</td>
-</tr>
-<tr>
-    <td>Rhea</td>
-    <td>South Italian Pottery</td>
-    <td>Cooper</td>
-    <td>Greek Pottery</td>
-</tr>
-<tr>
-    <td>Brianna</td>
-    <td>Interior Design</td>
-    <td>Beni</td>
-    <td>Hope's aqcuisition of collection</td>
-  </tr>
-  <tr>
-    <td>Erin</td>
-    <td>UCD aqcuisition of collection</td>
-  </tr>
-</table>
 
 <h3>Thomas Hope</h3>
-<p>Thomas Hope was born into a wealthy family in Amsterdam in 1769. <br>
+<p style="align:right;">Thomas Hope was born into a wealthy family in Amsterdam in 1769. <br>
 Thanks to  family’s banking firm, Hope was in a privileged position to be able to travel extensively during both his youth and later years, the most influential of which had been his eight year long Grand Tour. His primary destinations were in the Levant, Italy, and Greece. <br>
 Hope moved to London in 1799, after Napoleonic France occupied Amsterdam.<br>
 It was here that his skills in interior design could truly shine for the first time, for he made grand changes to the estate he moved into, drawing inspiration from Neoclassicism, an art movement which not only drew inspiration from, but actively seeked to recreate the aesthetics of Classical Greece and Rome.<br>
@@ -82,13 +56,43 @@ Besides being a patron of the arts, Hope continued adding to his collection even
 <h3>Hope's Interior Design</h3>
 <p>(Brianna)</p>
 
-<h3>How Did Hope Build His Collection?</h3>
-<p>(Beni)</p>
+<h3>Hamilton Contributions</h3>
+<p>By the end of his life in, Thomas Hope had come to amass a considerable collection of Greek and Etruscan vases. It was the cumulation of a long career of collecting that had started in Rome, all the way back in 1795. But our ability to understand how he’d achieved this, or where such artefacts had come from are limited. For after his death, Hope’s sons had had little interest in keeping their father’s papers. This then raises the question- what do we know about Thomas Hope and his collections? Firstly, there are a number of works associated with the man himself; be it directly or indirectly. Of these, the engravings of Tischbein offer valuable insight into the contents of what later became parts of Hope’s collection. Other insights can also be gleamed from Hope’s correspondences with his dilettante colleagues- such as a Sir William Hamilton.<br>
+Unlike Hope, the correspondences of Sir William Hamilton are more intact. By 1796, his own collection had numbered about 1000. Yet this impressive achievement would not grow much larger, 
+however. He’d much feared the then approaching Napoleon. Of this situation, he’d written: “I think that Italy is in is in great danger of being completely plunder'd and ruin'd”. So close 
+indeed had the French been that a commissary of theirs had been lodged in Hamilton’s own Neapolitan home. It is also clear, that Hamilton’s concerns were not unfounded, for he claims that 
+they had “made use of my furniture... went off with three of my carriages. Moreover, Hamilton also believed that a similar fate would have befallen the other parts of his collection had he 
+not acted. Unnerved by the prospect of further losses, Hamilton had turned to one of his many ‘friends in high places’. This friend was one ‘Lord Nelson’, better known to the rest of us as
+Horatio Nelson. Of this arrangement, Hamilton wrote: “...by [ Lord Nelson’s] friendship I have at least secured all my best pictures and collection of vases on board of one of his 
+victualling transports.”<br>
+This ‘victualling transport’, was the HMS Colossus. A third-rate ship of the line, it boasted a complement of 74 cannons. Indeed, Hamilton’s assurances of being safe on a ‘good transport’ 
+were no exaggeration. However, even such a formidable vessel was beholden to the whims of the sea and its weather. While waiting to cross from the Isles of Scilly, an unexpected gale had 
+caused an anchor cable to snap. This seemingly minor incident snowballed, causing the warship’s eventual sinking by the 11 December 1798. With it, also went one-third of the ‘cream’ of 
+Hamilton’s Second Collection.  Hamilton had been devastated, writing that: “As to my vases that is a sore point, they had better be at Paris than at the bottom of the sea...I can’t bear to
+look at some remaining cases here in which I know there are only black vases without figures.” Despite this, Hamilton had remained hopeful. In the same letter, he commented how “they were 
+excellently packed up & the cases will not easily go to pieces, & the sea water will not hurt the vases”. Thankfully, it was realised that the lost third had represented ‘some of the worst’
+, rather than the ‘cream’ as once assumed.<br>
+But what became of the two-thirds that had survived? Sold. After returning to England for good in 1800, Hamilton had decided to part with most of his collections. Initially, this was meant
+to be done through the services of Mr Christie- the founder of the auction house of the same name. Three of these sales ultimately happened.<br>
+he’d arranged to have his Second Collection- the ‘cream of the crop’ shipped to England. Its escort too, left little more to be desired; a well-armed, third-rate ship of the line- the HMS
+Colossus. However not even such a ship would be exempt from the whims of the sea and its weather. Hamilton would lose-by his own estimation- a third of his then-burgeoning Second Collection
+. But what of the remaining 2/3? Sold. In 1801, these survivors found themselves on sale at Christie’s. Finally, they would wind up in the possession of Thomas Hope for 4500 guineas- or 
+about £300,000 today. Hamilton had written to his friend, C.F. Greville on April 3rd, 1801, about this sale- which reveal much about his motivations:<br>
+“Christie to inform him, but the advertisement was gone. He will publish another that the collection has been disposed of by private contract, by which means they will not be dispersed, 
+but remain together for the inspection of the learned antiquaries and artists”.<br>
+It was for this reason then, that Hamilton had sold the remnants of his Second Collection to one person; and why he’d accepted it when Hope had underbid for it:<br>
+This morning Mr. Thos. Hope came to me, and having offered the round sum of four thousand pound down for my whole collection of vases for which I had asked £5000.<br>
+It was also this purchase that would make Hope’s own name and reputation as a collector. Indeed, according to the estimates of A.L Millin- a good friend of Hope’s- that his collection had risen to some 1500 vases. Yet even still, Hope’s career remained a flurry of activity; both buying and selling classical antiquities. The former had primarily came from a series of sales; at Cawdor, Chinnery, Edwards, Coghill, de Paroi, Durand, Magnoncourt and Beugnot.  As for the latter, Hope had sold some 180 pieces of his collection in 1805 alone. However, even after Hope’s death on February 2nd 1831- a significant portion of his collections remained. It were these remnants that were sold off for good in 1917.<br>
+Beni</p>
 
 <h3>How Did They End Up Here?</h3>
-<p>Shortly after Thomas’ death in 1831, his son Henry sold parts of the vase collection and moved the remaining pieces to another family property; Deepdene in Surrey - as well as having the Duchess Street residence demolished. In 1917 Thomas’ grandson Francis sold much of the collection’s remnants, resulting in the distribution of the collection moving across Britain and America - landing in museums and private collections. <br>
-The National Museum of Ireland and the Classical Museum of UCD later collaborated and jointly acquired about 20 vases. This effort was assisted by sponsorships from various prominent figures in Dublin. [sponsor info requested from NMI, waiting for response] <br>
-The Classical Museum now displays a combination of our own vases from this collection, as well as some on loan from the National Museum of Ireland. 
+<p>Shortly after Thomas’ death in 1831, his son Henry sold parts of the vase collection and moved the remaining pieces to another family property; Deepdene in Surrey - as well as having the Duchess Street residence demolished. In 1917 Thomas’ grandson Francis sold much of the collection’s remnants, and on the 23rd of July of the same year Christie's Auction House conducted the Hope Heirloom sale, which resulted in the distribution of the collection across Britain and America - landing in museums and private collections. Some of these artefacts were acquired for the Irish National collection, despite the difficulties presented by the turbulence of that time period. This effort was assisted by sponsorships from various prominent figures in Ireland for the Classical Museum of UCD. <br>
+The Classical Museum now displays our own collection of vases from this collection, as well as two on loan from the National Museum of Ireland (NMI 1917.41 & NMI 1917.52), totalling 24 vases on site. <br>
+Noted sponsors of the acquisition of our collection include the Rt. Hon. Lawrence Waldron, Esq., Mr. Alfred Smith Esq., M.B., Mrs. Teresa Begge, and Mrs Mary McCann. The Dictionary of Irish Biography contains information on a vast number of significant Irish figures, detailing their lives and interests. A few more of the Hope Collection’s sponsors are included in their records. <br>
+The Rt. Hon. Michael Francis Cox, M.D. (1852-1926) was from Co. Roscommon, and had qualifications from the Catholic University School of Medicine Dublin, London University, Royal College of Surgeons Ireland, and the King and Queen's College of Physicians Ireland, both in the Arts and in medicine. He quickly entered the medical world and, despite being younger than many colleagues, became an incredibly respected physician. He worked with the Gaelic League to establish education on TB, and was appointed privy councillor in 1911, but resigned in 1920 to protest British policy in Ireland.  This did not halt his career, however, and he was made president of the Royal College of Physicians in Ireland (1922-24), and governor of the Catholic University Medical School and of the Royal Veterinary College of Ireland. Besides his medical career, Cox also participated in the Literary and Historical Society in his university, and won several medals and served many different roles. In 1908 he was offered the presidency of UCD’s governing body and declined, but later was appointed a member of this body. He was associated with several leaders of the nationalist movement, including Redmond, Parnell, Dillon and Davitt. Cox was a keen participant in Irish culture and language, and having bought the 17th century Book of Genealogies by Dubhaltach Mac Firbhisigh, he donated it to the UCD, with the intention of it being gained as a national possession. <br>
+Surgeon John Stephen McArdle (1859-1928) was from Co. Louth, and received medical qualifications from the Catholic University Dublin, Royal College of Surgeons Ireland, Royal College of Physicians Ireland, Royal University of Ireland, and worked in St Vincent's Hospital Dublin. He was responsible for bringing innovative techniques to Ireland’s  surgical world. In 1904 he became a professor of surgery in the Catholic University and held the presidency of the Irish Medical Association from 1906 to 1908.  McArdle was well-known and liked across Dublin, especially for his work among the poor. UCD once held a life-sized portrait of him but this has since been lost. <br>
+Edward Martyn, Esq. (1859-1923) was from Co. Galway, with education from Belvedere College Dublin, and Beaumont College Windsor. Martyn was an Oxford drop out, a lover of the arts and of drama, a nationalist and a fan of Catholic ritual and Classical Civilisation. He rebuilt much of Galway’s Tulira Castle, and donated works by several legendary artists to the National Gallery of Ireland and donated great amounts of money to establish a Palestrina choir in Dublin - the Schola Cantorum - in 1903. He was also a major player in funding the Theatre of Ireland (1906) and the Irish Theatre (1914). The dramatist was president of a group called Na hAisteoirí, which was associated with the Gaelic League - which Martyn was also an executive member of.<br>
+Joseph Dolan, Esq., M.A. (1872-1930) was born in Co. Louth, educated in St Stanislaus' School Dundalk, and the Jesuit colleges at Tullabeg and Clongowes, Royal University of Ireland, gaining both a BA and MA in Classical Studies. He then returned to Ardee to run his family business. Later he co-founded the Louth Historical and Archaeological Society, and was a member of the Royal Irish Academy. He was the secretary of the Ardee branch of the Gaelic League, and co-founded Irish-language summer schools in Omeath and Clogherhead. He helped Padraic Pearse found St Enda's by acting as financial guarantor in 1908. He was deeply involved in a variety of businesses in his hometown, was well-known for his charity work, and successfully lobbied for government housing for the people of Ardee.
 </p>
 
 <h3>What Have We Got?</h3>
